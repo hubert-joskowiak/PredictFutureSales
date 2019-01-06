@@ -1,6 +1,5 @@
 # PredictFutureSales
-kaggle competition
-
+H.Joskowiak
 
 1. Unpack the zip file with data
 
